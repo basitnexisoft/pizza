@@ -6,37 +6,37 @@ const Menu = () => {
     const menuData = [
         {
             id: 1,
-            img: "/src/assets/img/pizza1.webp",
+            img: "../assets/img/pizza1.webp",
             title: "Margarita Marvel",
             price: "16.99",
         },
         {
             id: 2,
-            img: "/src/assets/img/pizza2.webp",
+            img: "../assets/img/pizza2.webp",
             title: "Pesto Paradise",
             price: "16.99",
         },
         {
             id: 3,
-            img: "/src/assets/img/pizza3.webp",
+            img: "../assets/img/pizza3.webp",
             title: "Hawaiian Bliss",
             price: "16.99",
         },
         {
             id: 4,
-            img: "/src/assets/img/pizza4.webp",
+            img: "../assets/img/pizza4.webp",
             title: "Truffle Treasures",
             price: "16.99",
         },
         {
             id: 5,
-            img: "/src/assets/img/pizza5.webp",
+            img: "../assets/img/pizza5.webp",
             title: "Farmhouse Harvest",
             price: "16.99",
         },
         {
             id: 6,
-            img: "/src/assets/img/pizza6.webp",
+            img: "../assets/img/pizza6.webp",
             title: "Cheese Frenzy",
             price: "16.99",
         }
