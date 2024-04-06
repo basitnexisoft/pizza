@@ -5,7 +5,7 @@ const OtherMenu = () => {
     const menuData = [
         {
             id:7,
-            img: "../assets/img/menu7.webp",
+            img: "../assets/img/pizza.png",
             title: "Margarita Marvel",
             price: "16.99",
         },
